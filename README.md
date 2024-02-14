@@ -1,26 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yusuf Belkhiri</h1>
-<h3 align="center">A passionate Software & Game Developer, Freelancer</h3>
+<h3 align="center">A passionate Game Developer & Freelancer</h3>
 
 - 👨‍💻 All of my projects are available at [https://youcefbelkhiri005.wixsite.com/youcef-belkhiri](https://youcefbelkhiri005.wixsite.com/youcef-belkhiri)
 
-- 📫 How to reach me **youcefbelkhiri005@gmail.com**
-
-- 📄 Know about my experiences [https://dd67ab7c-465f-469e-a02f-4352dafd2614.filesusr.com/ugd/e68e82_c13c55293d6b40608acf24a4c236e864.pdf](https://dd67ab7c-465f-469e-a02f-4352dafd2614.filesusr.com/ugd/e68e82_c13c55293d6b40608acf24a4c236e864.pdf)
+- 📫 How to reach me **y_belkhiri@estin.dz**
 
 - ⚡ Fun fact **"Game Dev is a Lifestyle"**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/yusuf-belkhiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yusuf-belkhiri" height="30" width="40" /></a>
 <a href="https://twitter.com/belkhiriyusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="belkhiriyusuf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/youcef belkhiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youcef belkhiri" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/youcef belkhiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="youcef belkhiri" height="30" width="40" /></a>
-<a href="https://kaggle.com/youcef belkhiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="youcef belkhiri" height="30" width="40" /></a>
-<a href="https://fb.com/yusuf blk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yusuf blk" height="30" width="40" /></a>
 <a href="https://instagram.com/blasterrgames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blasterrgames" height="30" width="40" /></a>
 <a href="https://discord.gg/.yuxuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".yuxuf" height="30" width="40" /></a>
 </p>
