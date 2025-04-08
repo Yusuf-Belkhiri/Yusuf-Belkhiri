@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf Belkhiri</h1>
 <h3 align="center">Final year AI & Data Science student<br> Passionate Game Developer & Freelancer</h3>
 
-- 👨‍💻 **Portfolio**: [https://youcefbelkhiri005.wixsite.com/youcef-belkhiri](https://youcefbelkhiri005.wixsite.com/youcef-belkhiri)
+- 👨‍💻 **Portfolio**: [www.retromuse-studios.com](https://www.retromuse-studios.com)
 
 - 📫 **Contact**: **y_belkhiri@estin.dz**
 
